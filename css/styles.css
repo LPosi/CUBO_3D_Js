@@ -298,7 +298,8 @@ section {
   border: 1px solid rgba(255, 255, 255, 0.1);
   color: white;
 }
-section h1 {
+section h1,
+h2 {
   text-align: center;
   margin-bottom: 1.5rem;
   font-size: 2rem;
