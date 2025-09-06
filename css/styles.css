@@ -269,7 +269,7 @@ main {
 }
 @media (min-width: 670px) {
   .navbar-collapse {
-    display: flex !important;
+    display: flex;
     flex-basis: auto;
   }
   .navbar-nav {
