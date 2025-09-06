@@ -340,6 +340,11 @@ section div img {
   opacity: 0;
   animation: fadeIn 1s ease-in forwards;
 }
+
+.img-medium {
+  max-width: 50%;
+}
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
